@@ -36,8 +36,8 @@ o	INFORMS Annual Meeting, Indianapolis, AZ, 2023 (scheduled).\\
 
 Education
 ======
-<!--   PhD (expected) 2026, Washington University in St.Louis\\
+  PhD (expected) 2026, Washington University in St.Louis\\
   MS 2019, Tsinghua University\\
   MS 2018, Columbia University\\
-  BA 2016, Beijing Foreign Studies University\\ -->
-  ![image](https://user-images.githubusercontent.com/115124427/232237217-cd6d752b-3eac-463a-8f41-e618ece1c08f.png)
+  BA 2016, Beijing Foreign Studies University\\
+<!--   ![image](https://user-images.githubusercontent.com/115124427/232237217-cd6d752b-3eac-463a-8f41-e618ece1c08f.png) -->
